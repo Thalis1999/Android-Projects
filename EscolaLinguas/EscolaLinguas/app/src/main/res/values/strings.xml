@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">EscolaLinguas</string>
+    <string name="checkEspanhou" translatable="false">Curso de Espanhou</string>
+    <string name="checkIngles" translatable="false">Curso de Inglês </string>
+    <string name="checkAvista" translatable="false">À vista</string>
+    <string name="buttonCalc" translatable="false">Calcular</string>
+    <string name="editTextTotal" translatable="false">Total: </string>
+
+
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projeto_Trapezio</string>
+    <string name="hint_valor1">Base Menor </string>
+    <string name="hint_valor2">Base Maior</string>
+    <string name="hint_valor3">Altura</string>
+    <string name="botao_valor4">Calcular</string>
+    <string name="botao_valor5">Resultado</string>
+</resources>

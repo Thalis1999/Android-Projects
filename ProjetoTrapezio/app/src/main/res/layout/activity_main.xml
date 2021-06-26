@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/editTextBaseMenor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_valor1" />
+
+    <EditText
+        android:id="@+id/editTextBaseMaior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_valor2"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextAltura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_valor3"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonCalcular"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onCalcular"
+        android:text="@string/botao_valor4" />
+
+    <EditText
+        android:id="@+id/editTextResultado"
+        android:layout_width="87dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/hint_valor3"
+        android:inputType="textPersonName"
+        android:text="@string/botao_valor5" />
+
+</LinearLayout>

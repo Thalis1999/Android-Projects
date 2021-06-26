@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OQuarto</string>
+    <string name="valor1">Lampada</string>
+    <string name="valor2">Acesa</string>
+    <string name="valor3">Apagada</string>
+    <string name="valor4">Porta</string>
+    <string name="valor5">Aberta</string>
+    <string name="valor6">Fechada</string>
+    <string name="valor7">Trancada</string>
+    <string name="valor8">Aceitar</string>
+    <string name="valor9">Mostrar</string>
+
+</resources>

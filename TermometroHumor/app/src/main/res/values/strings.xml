@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TermometroHumor</string>
+    <string name="valor1">Chefe feliz</string>
+    <string name="valor2">Chefe Triste</string>
+    <string name="valor3">Chefe Raivoso</string>
+    <string name="valor4">Chefe Furioso!</string>
+</resources>

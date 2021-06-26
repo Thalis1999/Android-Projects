@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrailerFilme</string>
+    <string name="texto_valor1">"Perdidos no Android"</string>
+    <string name="texto_valor2">Data: </string>
+    <string name="texto_valor3">Clique na imagem para ver a sinopse </string>
+    <string-array name="spinner_valor">
+        <item> Cine do Zé</item>
+        <item> Cine AnnaBelle</item>
+        <item> Cine Aberração</item>
+
+    </string-array>
+</resources>
